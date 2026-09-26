@@ -9,6 +9,22 @@ Money Tracker is a practical finance-tracking application that combines my inter
 The application is designed around a simple workflow:
 
 **Record → Organize → Calculate → Understand**
+## Application Screenshots
+
+### Dashboard
+![Money Tracker Dashboard](screenshots/dashboard.png)
+
+### Transaction Management
+![Transaction Management](screenshots/transactions.png)
+
+### Budget Management
+![Budget Management](screenshots/budgets1.png)
+
+### Budget Management
+![Budget Management](screenshots/budgets2.png)
+
+### Financial Report
+![Financial Report](screenshots/financial-report.png)
 
 It allows users to record income and expenses, organize transactions into categories, monitor financial performance, set monthly spending limits, and generate financial reports.
 
